@@ -1,35 +1,39 @@
 # AiCore-Projects
 
-# Hangman
+# Hangman Game
 
 ## Description
 
-This is a simple CLI Hangman game. You guess letters to try and figure out the word.
+A simple Hangman game implemented in Python. The game randomly selects a word from a predefined list, and the player has to guess the letters of the word within a limited number of attempts.
 
-## What I Learned
+### Aim
 
-- Using `random` to pick a word
-- Checking user input
-- Basic game logic in Python
+This project aims to practice fundamental Python programming concepts such as user input handling, loops, conditionals, and object-oriented programming.
+
+### Skills Acquired
+
+- Handling user input
+- Implementing loops and conditionals
+- Utilizing random selection
+- Implementing object-oriented programming principles
 
 ## Installation
 
-Just need Python installed.
+Ensure Python is installed on your system.
 
 ## Usage
 
-Run the script and follow the prompts.
-
-```sh
-python milestone_2.py
-```
+1. Clone the repository.
+2. Run the `milestone_5.py` script using Python.
+3. Follow the on-screen prompts to play the game.
 
 ## File Structure
 
 ```
-AiCore-Projects/
-├── milestone_2.py
+Hangman/
+├── milestone_5.py
 ```
+
 ## License
 
-MIT License
+This project is licensed under the MIT License.

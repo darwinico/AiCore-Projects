@@ -1,6 +1,6 @@
 import random
 
-word_list = ["bananas", "apples", "kiwis", "mangoes", "porphyrogennetos"]
+from milestone_2 import word_list
 word = random.choice(word_list)
 
 def check_guess(guess):
