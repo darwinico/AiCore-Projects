@@ -1,5 +1,5 @@
 import random
-word_list = ["bananas", "apples", "kiwis", "mangoes", "passionfruits"]
+word_list = ["bananas", "apples", "kiwis", "mangoes", "porphyrogennetos"]
 word = random.choice(word_list)
 print(word)
 guess = input("Enter a single letter")
